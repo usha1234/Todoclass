@@ -1,0 +1,56 @@
+{"status": "ok",
+"totalResults": 36,
+"articles": [
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Abigail Ng",
+        "title": "Australia's stocks lead gains in Asia after Wall Street's jump; yen hovers near 149-levels - CNBC",
+        "description": "Shares in the Asia-Pacific traded higher on Tuesday after Wall Street's rally overnight.",
+        "url": "https://www.cnbc.com/2022/10/18/asia-markets-economic-data-stocks-japanese-yen-currencies.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/106724499-1601513424933-gettyimages-1212105132-a73v5131_2020031342756072.jpeg?v=1666065896&w=1920&h=1080",
+        "publishedAt": "2022-10-18T07:33:00Z",
+        "content": "Shares in the Asia-Pacific traded higher on Tuesday after Wall Street's rally overnight.\r\nIn Australia, the S&amp;P/ASX 200 gained 1.72% to 6,779.20, leading gains in the wider region. The Reserve Ba… [+1346 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Gregory Krieg",
+        "title": "Four takeaways from the Georgia governor's debate - CNN",
+        "description": "Republican Gov. Brian Kemp and Democrat Stacey Abrams sparred over health care, crime and punishment, and voting rights in a Monday debate as they made their closing arguments to voters in a reprise of their fiercely contested 2018 race for the same job.",
+        "url": "https://www.cnn.com/2022/10/17/politics/georgia-governor-debate-takeaways-stacey-abrams-brian-kemp/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221017162551-01-ga-gov-debate-1017.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2022-10-18T07:03:00Z",
+        "content": "Republican Gov. Brian Kemp and Democrat Stacey Abrams sparred over health care, crime and punishment, and voting rights in a Monday debate as they made their closing arguments to voters in a reprise … [+6233 chars]"
+    },
+    {
+        "source": {
+            "id": "reuters",
+            "name": "Reuters"
+        },
+        "author": null,
+        "title": "Kanye West agrees to buy social media app Parler - Reuters",
+        "description": "American rapper <a href=\"/world/kanye-wests-twitter-instagram-accounts-restricted-after-alleged-anti-semitic-2022-10-09/\">Kanye West</a>, who now goes by Ye, has agreed in principle to buy Parler, the social media platform popular among U.S. conservatives, pa…",
+        "url": "https://www.reuters.com/technology/parler-be-acquired-by-kanye-west-2022-10-17/",
+        "urlToImage": "https://www.reuters.com/resizer/UvB0x95lDk97gGQge6H0pRKek8c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QZOD7EVVTFM3FDRU5WITPAEDWM.jpg",
+        "publishedAt": "2022-10-18T06:50:00Z",
+        "content": "Oct 17 (Reuters) - American rapper Kanye West, who now goes by Ye, has agreed in principle to buy Parler, the social media platform popular among U.S. conservatives, parent company Parlement Technolo… [+3046 chars]"
+    },
+    {
+        "source": {
+            "id": "independent",
+            "name": "Independent"
+        },
+        "author": "Tom Murray",
+        "title": "Olivia Wilde and Jason Sudeikis claim former nanny is on ‘campaign of harassment’ - The Independent",
+        "description": "The pair issued a rare joint statement after the unnamed nanny was interviewed by the Daily Mail",
+        "url": "https://www.independent.co.uk/arts-entertainment/tv/news/olivia-wilde-jason-sudeikis-nanny-interview-b2204863.html",
+        "urlToImage": "https://static.independent.co.uk/2022/04/28/07/pjimage%20-%202022-04-28T120749.207.jpg?quality=75&width=1200&auto=webp",
+        "publishedAt": "2022-10-18T06:08:35Z",
+        "content": "Former partners Olivia Wilde and Jason Sudeikis have issued a joint statement after their former nanny gave a bombshell interview about their breakup.\r\nIn a statement, the pair alleged that the forme… [+1943 chars]"
+    }
+    ]}
